@@ -35,7 +35,7 @@ Toda vez que a checagem retornar positivo (o usuário deve ser impactado pela pe
     - Rodar o comando 'docker-compose up -d'
 
 * Rodando os tests da aplicação
-    - Com o container rodando, entrar no container com o comando 'docker exec -ti [CONTAINER] ID /bin/sh'
+    - Com o container rodando, entrar no container com o comando 'docker exec -ti [CONTAINER] /bin/sh'
     - Após entrar no container rodar o comando 'go test'
 
 ## Acessando a aplicação
