@@ -23,6 +23,7 @@ Toda vez que a checagem retornar positivo (o usuário deve ser impactado pela pe
 
 * Redis
     - Servidor responsável por armazenar a última data de envio de NPS de cada cliente.
+    - https://docker-doc.readthedocs.io/zh_CN/stable/examples/running_redis_service.html
 
 ## Artefatos entregues
 * Validação de NPS
