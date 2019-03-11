@@ -37,3 +37,11 @@ Toda vez que a checagem retornar positivo (o usuário deve ser impactado pela pe
 * Rodando os tests da aplicação
     - Com o container rodando, entrar no container com o comando 'docker exec -ti <idcontainer> /bin/sh'
     - Após entrar no container rodar o comando 'go test'
+
+## Acessando a aplicação
+* Com o container rodando acessar o endereço 'http://localhost:6060/?key={IDCLIENTE}'
+    - IDCLIENTE é o cliente que deseja verificar se tem que enviar NPS
+
+## Retorno da Requição
+* Liberado para o envio de avaliação!
+* Não está liberado para o envio de avaliação!
