@@ -27,7 +27,7 @@ Toda vez que a checagem retornar positivo (o usuário deve ser impactado pela pe
 
 ## Artefatos entregues
 * Validação de NPS
-* tests
+* Tests
 
 ## Subindo a aplicação
 * build
